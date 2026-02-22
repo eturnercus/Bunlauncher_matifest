@@ -14,8 +14,11 @@
   "neoforge_sha256": "b95c8b1d9d163d1bbd54d5d22ef4eb07117946761fa8573e0ffaf66caa2a0d68",
   "archive_urls": [
     "http://127.0.0.1:8000/modpack.zip",
-    "http://127.0.0.1:8000/modpack-v1-mirror.zip"
+    "http://127.0.0.1:8000/modpack-v1-mirror.zip",
+    "https://s230vla.storage.yandex.net/rdisk/cfb02376b175901f1bb6c1aebbfed37b5660254e29c8bb9f61644e0082d7368a/699b3624/bM3FpLD30kgwGCYirJP1fyFvMF_8lzm6jB4pIaEqYDxCwcjsKB_xWj_QyqFPgD4QgibfIHbEYi7-KwkAsCBVjw==?uid=0&filename=modpack.zip&disposition=attachment&hash=Uca1%2BuKdklpN91Bxgv1rkmldnrSujd/ONTD8xzPnMDeMUQGFiFGadjrSouk08kPXq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1359106067&fsize=16969605&hid=25972c9413427fb1e9bbfab962de088e&media_type=compressed&tknv=v3&ts=64b6c96ded100&s=dc1a031f9f0a297bb9a262e2526a18bfe41ec8dbccdafac6b3ab0dfd1a52f4aa&pb=U2FsdGVkX19bG7mBetcfy2sNu3IRFdQ1smMbm0mXQXcv1kB9cy8YWAt4UtnOUmLRQOruq_5v-Nnw6jTn2zN1qHG5V3jY-c-wif2CguALbVo",
+    "https://drive.usercontent.google.com/uc?id=1KZwdHY9Msq0PzyhNrypE8QSJbCoecIz-&export=download"
+
   ],
-  "archive_sha256": "a4c2d920bf3844cfcd80579bada478d975bc821ce71fe572534d0112a6035003",
-  "archive_size": 93975286
+  "archive_sha256": "97a98c204fa193bd2404d4c0eac4ec7ebd932d518b275afadf9a7ed274d8ecf1",
+  "archive_size": 16969605
 }
