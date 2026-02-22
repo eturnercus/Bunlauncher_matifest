@@ -1,0 +1,21 @@
+{
+  "java_version": "21",
+  "java_urls": [
+    "http://127.0.0.1:8000/java-21-windows.zip",
+    "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.zip"
+  ],
+  "java_sha256": "a29b88541bc11276de4c4cbdfac60e374ef8a34a415f61cb02a2b6a46f0e1064 ",
+  "minecraft_version": "1.21.1",
+  "neoforge_version": "21.1.219",
+  "neoforge_urls": [
+    "http://127.0.0.1:8000/neoforge-21.1.0-installer.jar",
+    "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.219/neoforge-21.1.219-installer.jar"
+  ],
+  "neoforge_sha256": "b95c8b1d9d163d1bbd54d5d22ef4eb07117946761fa8573e0ffaf66caa2a0d68",
+  "archive_urls": [
+    "http://127.0.0.1:8000/modpack.zip",
+    "http://127.0.0.1:8000/modpack-v1-mirror.zip"
+  ],
+  "archive_sha256": "a4c2d920bf3844cfcd80579bada478d975bc821ce71fe572534d0112a6035003",
+  "archive_size": 93975286
+}
